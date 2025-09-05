@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatemeh  
 
-<!--
-**fatemeh-code-official/fatemeh-code-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 *Computer Engineering Student*  
+🌱 Growing interest in **Back-End (Python)** and **Front-End fundamentals** (HTML, CSS, Flexbox, Grid)  
+🚀 Focused on **continuous learning** and building small projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- HTML5 | CSS3  
+- Flexbox | Grid  
+- Python (learning phase)  
+
+---
+
+## 📂 Featured Project  
+🌟 [Frontend UI Sample](https://github.com/fatemeh-code-official/Frontend-ui-sample)  
+*A social feed UI playground – educational, safe, and free of copyright*  
+
+🔗 [Live Demo](https://fatemeh-code-official.github.io/Frontend-ui-sample/)  
+
+---
+
+## 📊 GitHub Stats  
+![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-code-official&show_icons=true&theme=tokyonight)  
+
+---
+
+⭐️ *If you like my projects, consider giving them a star!*  
