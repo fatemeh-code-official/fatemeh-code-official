@@ -9,7 +9,8 @@
 ## 🔧 Tech Stack  
 - HTML5 | CSS3  
 - Flexbox | Grid
-- Git & Github  
+- Git & Github
+- SQLite3
 - Python (learning phase)  
 
 ---
