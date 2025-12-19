@@ -1,31 +1,69 @@
-# 👋 Hi, I'm Fatemeh  
+# 👋 Hi, I'm Fatemeh
 
-💻 *Computer Engineering Student*  
-🌱 Growing interest in **Back-End (Python)** and **Front-End fundamentals** (HTML, CSS, Flexbox, Grid)  
-🚀 Focused on **continuous learning** and building small projects  
+💼 **Computer Engineering Student**  
+🚀 Aspiring **Back‑End Developer (Python)** with solid **Front‑End fundamentals**  
+📈 Currently focused on *consistent progress, clean code, and real projects*
 
 ---
 
-## 🔧 Tech Stack  
+## 🧠 About Me
+- Passionate about building things that actually work (not just tutorials)
+- Learning by **doing**, breaking stuff, and fixing it properly
+- Strong believer in fundamentals before frameworks
+- Comfortable working solo and improving step‑by‑step
+
+> *No shortcuts. No fluff. Just steady growth.*
+
+---
+
+## 🛠 Tech Stack
+**Languages & Core**  
+- Python *(learning & practicing)*  
 - HTML5 | CSS3  
-- Flexbox | Grid
-- Git & Github
+
+**Layout & Styling**  
+- Flexbox  
+- CSS Grid
+
+**Tools & Workflow**  
+- Git & GitHub  
 - SQLite3
-- Python (learning phase)  
 
 ---
 
-## 📂 Featured Project  
-🌟 [Frontend UI Sample](https://github.com/fatemeh-code-official/Frontend-ui-sample)  
-*A social feed UI playground – educational, safe, and free of copyright*  
+## 🚀 Featured Project
+### 🌟 Frontend UI Sample
+🔗 **Repository:** https://github.com/fatemeh-code-official/Frontend-ui-sample  
+🌐 **Live Demo:** [https://fatemeh-code-official.github.io/Frontend-ui-sample/](https://fatemeh-code-official.github.io/Insta-UI-sample/)
 
-🔗 [Live Demo](https://fatemeh-code-official.github.io/Frontend-ui-sample/)  
+A clean **social feed UI playground** built for learning and experimentation.
+
+**What this project shows:**
+- Responsive layouts with Flexbox & Grid
+- Structured HTML & readable CSS
+- Attention to UI spacing and consistency
+
+**Tech used:** HTML, CSS (Flexbox, Grid)
 
 ---
 
-## 📊 GitHub Stats  
-![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-code-official&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Activity
+
+![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeh-code-official&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeh-code-official&layout=compact&theme=tokyonight)
 
 ---
 
-⭐️ *If you like my projects, consider giving them a star!*  
+## 🎯 Current Focus
+- Writing cleaner Python code
+- Strengthening backend fundamentals
+- Building small but complete projects
+- Improving Git & project structure
+
+---
+
+⭐ If you find something useful here, feel free to star a repo — it genuinely helps.
+
+Thanks for stopping by ✨
+
