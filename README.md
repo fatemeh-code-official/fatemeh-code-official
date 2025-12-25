@@ -18,7 +18,8 @@
 
 ## 🛠 Tech Stack
 **Languages & Core**  
-- Python *(learning & practicing)*  
+- Python (learning & practicing)
+- Django (learning phase)
 - HTML5 | CSS3  
 
 **Layout & Styling**  
